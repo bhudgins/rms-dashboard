@@ -1,0 +1,16 @@
+[Unit]
+Description=rms-dashboard
+After=syslog.target
+
+[Service]
+EnvironmentFile=-/u01/app/rms-dashboard/rms-dashboard.env
+WorkingDirectory=/u01/app/rms-dashboard
+User=springweb
+ExecStart=/u01/app/rms-dashboard/rms-dashboard.jar
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=rms-dashboard
+SuccessExitStatus=143
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,42 @@
+.form-group.field.field-object{
+    margin: 20px;
+}
+
+.form-group.field.field-object fieldset{
+    padding: 15px;
+    border: none;
+}
+
+.form-group.field.field-object fieldset legend{
+    font-size: large;
+}
+.form-group.field.field-object fieldset div{
+    margin-left: 3%
+}
+
+.form-group.field.field-string{
+    padding: 1%;
+}
+
+.form-group.field.field-integer{
+    padding: 1%;
+}
+
+.form-control{
+    padding:.75%;
+    border-radius: 4px;
+    border: 1px solid;
+    width: 35%;
+}
+
+.btn.btn-info{
+    padding: 1%;
+    width: 15%;
+    margin-left: 8%;
+    border-radius: 4px;
+    background-color: #57ba6e;
+    border: #57ba6e;
+    color: white;
+    font-family: "Century Gothic", "sans-serif";
+    font-size: medium;
+}

@@ -1,0 +1,391 @@
+{"_id":{"$oid":"5b3c5106ae3dab33c822c53d"},"_class":"org.spp.model.RmsRequestTypesTotal","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"requestType":"ITP Submittals","value":16}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b68f"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b690"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":49.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b691"},"requestType":"Contact Update","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b692"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":270.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b693"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b694"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":28.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b695"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b696"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":10.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b697"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b698"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":6.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b699"},"requestType":"Order 1000","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b69a"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b69b"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b69c"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":7.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b69d"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b69e"},"requestType":"Caller","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":6.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b69f"},"requestType":"Banking Info","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":14.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6a0"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":19.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6a1"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":12.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6a2"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6a3"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6a4"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6a5"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6a6"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":5.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6a7"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":115.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6a8"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":6.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6a9"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":336.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6aa"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ab"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":35.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ac"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ad"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":6.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ae"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":7.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6af"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":14.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6b0"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6b1"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6b2"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6b3"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":11.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6b4"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":7.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6b5"},"requestType":"Caller","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":8.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6b6"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":24.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6b7"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":27.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6b8"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":25.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6b9"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ba"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6bb"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":25.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6bc"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":11.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6bd"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":13.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6be"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":61.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6bf"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6c0"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":330.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6c1"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6c2"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":28.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6c3"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6c4"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":12.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6c5"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6c6"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":14.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6c7"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6c8"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6c9"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ca"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":11.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6cb"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6cc"},"requestType":"Caller","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":8.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6cd"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":31.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ce"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":16.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6cf"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":33.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6d0"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6d1"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6d2"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":27.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6d3"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":8.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6d4"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":15.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6d5"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":51.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6d6"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6d7"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":280.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6d8"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6d9"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":28.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6da"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6db"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6dc"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6dd"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":5.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6de"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6df"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":84.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6e0"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6e1"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":16.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6e2"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":9.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6e3"},"requestType":"Caller","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6e4"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":31.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6e5"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":14.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6e6"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":29.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6e7"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6e8"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6e9"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":37.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ea"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6eb"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ec"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":17.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ed"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ee"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":258.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ef"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":6.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6f0"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":28.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6f1"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6f2"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":5.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6f3"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6f4"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":7.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6f5"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6f6"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":65.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6f7"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6f8"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":11.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6f9"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6fa"},"requestType":"Caller","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6fb"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":36.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6fc"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":18.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6fd"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":32.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6fe"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b6ff"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":6.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b700"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":29.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b701"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":6.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b702"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b703"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":73.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b704"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b705"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":242.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b706"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b707"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":35.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b708"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b709"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":8.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b70a"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":6.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b70b"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":26.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b70c"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":12.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b70d"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":75.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b70e"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b70f"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":17.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b710"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b711"},"requestType":"Caller","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b712"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":63.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b713"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":19.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b714"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":19.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b715"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b716"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b717"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":29.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b718"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b719"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b71a"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":177.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b71b"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b71c"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":213.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b71d"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b71e"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":28.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b71f"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":5.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b720"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":9.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b721"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b722"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":5.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b723"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":25.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b724"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":74.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b725"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b726"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":13.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b727"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b728"},"requestType":"Caller","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b729"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":39.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b72a"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":18.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b72b"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":21.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b72c"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b72d"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b72e"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":29.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b72f"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":28.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b730"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b731"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":118.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b732"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b733"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":290.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b734"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b735"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":28.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b736"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b737"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b738"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b739"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b73a"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b73b"},"requestType":"SettlementInquiry","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":81.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b73c"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b73d"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":14.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b73e"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b73f"},"requestType":"Caller","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b740"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":32.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b741"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":12.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b742"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":30.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b743"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b744"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b745"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":25.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b746"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":28.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b747"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b748"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":98.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b749"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b74a"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":337.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b74b"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":7.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b74c"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":30.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b74d"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b74e"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b74f"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b750"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b751"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b752"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":93.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b753"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b754"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":40.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b755"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b756"},"requestType":"Caller","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":5.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b757"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":41.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b758"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":16.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b759"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":29.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b75a"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b75b"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b75c"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":44.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b75d"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":58.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b75e"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b75f"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":19.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b760"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b761"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":216.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b762"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b763"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b764"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b765"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":47.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b766"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":16.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b767"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":7.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b768"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b769"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":81.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b76a"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b76b"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":25.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b76c"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b76d"},"requestType":"Caller","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b76e"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":32.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b76f"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":13.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b770"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":25.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b771"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b772"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b773"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":172.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b774"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":20.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b775"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b776"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":113.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b777"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":9.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b778"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":249.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b779"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b77a"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b77b"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":8.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b77c"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b77d"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b77e"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":5.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b77f"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b780"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":77.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b781"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b782"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":21.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b783"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b784"},"requestType":"Caller","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b785"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":46.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b786"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":15.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b787"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":20.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b788"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b789"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b78a"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":176.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b78b"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":47.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b78c"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b78d"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":33.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b78e"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":6.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b78f"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":171.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b790"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b791"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b792"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":6.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b793"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b794"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b795"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":11.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b796"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b797"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":84.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b798"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b799"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":35.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b79a"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b79b"},"requestType":"Caller","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b79c"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":46.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b79d"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":11.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b79e"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":23.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b79f"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7a0"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7a1"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":207.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7a2"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":27.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7a3"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7a4"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":39.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7a5"},"requestType":"Contact Update","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7a6"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":102.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7a7"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7a8"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7a9"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":5.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7aa"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ab"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ac"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":16.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ad"},"requestType":"Order 1000","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ae"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":77.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7af"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7b0"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7b1"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7b2"},"requestType":"Caller","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7b3"},"requestType":"Banking Info","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":36.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7b4"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":18.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7b5"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":16.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7b6"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7b7"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7b8"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":185.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7b9"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":20.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ba"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7bb"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":36.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7bc"},"requestType":"Contact Update","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":9.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7bd"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":139.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7be"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7bf"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7c0"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":7.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7c1"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7c2"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":16.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7c3"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":5.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7c4"},"requestType":"Order 1000","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7c5"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":69.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7c6"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7c7"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":28.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7c8"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":5.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7c9"},"requestType":"Caller","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ca"},"requestType":"Banking Info","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":35.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7cb"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":13.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7cc"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":30.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7cd"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ce"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7cf"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":255.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7d0"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":78.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7d1"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7d2"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":68.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7d3"},"requestType":"Contact Update","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7d4"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":135.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7d5"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7d6"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7d7"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7d8"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":9.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7d9"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7da"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":8.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7db"},"requestType":"Order 1000","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7dc"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":67.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7dd"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7de"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":64.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7df"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7e0"},"requestType":"Caller","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7e1"},"requestType":"Banking Info","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":33.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7e2"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":17.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7e3"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":30.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7e4"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7e5"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7e6"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":215.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7e7"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":66.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7e8"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7e9"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":40.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ea"},"requestType":"Contact Update","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7eb"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":114.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ec"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ed"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ee"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ef"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":8.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7f0"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7f1"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":13.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7f2"},"requestType":"Order 1000","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7f3"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":88.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7f4"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7f5"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":42.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7f6"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7f7"},"requestType":"Caller","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7f8"},"requestType":"Banking Info","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":33.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7f9"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":14.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7fa"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":26.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7fb"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7fc"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7fd"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":285.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7fe"},"requestType":"ITP Submittals","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":57.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b7ff"},"requestType":"Z2 Inquiries \u0026 Disputes","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b800"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":15.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b801"},"requestType":"Contact Update","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":3.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b802"},"requestType":"General Inquiry","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":110.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b803"},"requestType":"Enhancement Requests","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b804"},"requestType":"Market 2 Market","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b805"},"requestType":"Market Monitor","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":2.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b806"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":4.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b807"},"requestType":"Process Tracking","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b808"},"requestType":"Revision Requests - Comments","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":19.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b809"},"requestType":"Order 1000","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b80a"},"requestType":"Settlement Inquiry","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":83.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b80b"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b80c"},"requestType":"GlobalScape Access","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":56.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b80d"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":1.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b80e"},"requestType":"Caller","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b80f"},"requestType":"Banking Info","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":45.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b810"},"requestType":"Settlement Dispute","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":17.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b811"},"requestType":"Map - Model - NDA","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":39.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b812"},"requestType":"Make the Right Call","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b813"},"requestType":"Change Mngmt Requests","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":0.0}
+{"_id":{"$oid":"5b3c51c220fdcacf3949b814"},"requestType":"Gen Inq No 1st Call","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":199.0}

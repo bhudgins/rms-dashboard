@@ -1,0 +1,56 @@
+{"_id":{"$oid":"5b3c4ae8ae3dab15f8fb69c5"},"_class":"org.spp.model.RmsPercentagesTotal","firstOfMonth":{"$date":"2018-04-18T05:00:00.000Z"},"percentageType":"First Call Resolution","value":53}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b626"},"value":96.0,"firstOfMonth":{"$date":"2016-01-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b627"},"value":26.0,"firstOfMonth":{"$date":"2016-01-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b628"},"value":94.0,"firstOfMonth":{"$date":"2016-02-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b629"},"value":31.0,"firstOfMonth":{"$date":"2016-02-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b62a"},"value":98.0,"firstOfMonth":{"$date":"2016-03-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b62b"},"value":36.0,"firstOfMonth":{"$date":"2016-03-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b62c"},"value":94.0,"firstOfMonth":{"$date":"2016-04-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b62d"},"value":31.0,"firstOfMonth":{"$date":"2016-04-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b62e"},"value":98.0,"firstOfMonth":{"$date":"2016-05-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b62f"},"value":23.0,"firstOfMonth":{"$date":"2016-05-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b630"},"value":97.0,"firstOfMonth":{"$date":"2016-06-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b631"},"value":26.0,"firstOfMonth":{"$date":"2016-06-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b632"},"value":96.0,"firstOfMonth":{"$date":"2016-07-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b633"},"value":28.0,"firstOfMonth":{"$date":"2016-07-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b634"},"value":97.0,"firstOfMonth":{"$date":"2016-08-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b635"},"value":27.0,"firstOfMonth":{"$date":"2016-08-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b636"},"value":97.0,"firstOfMonth":{"$date":"2016-09-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b637"},"value":28.0,"firstOfMonth":{"$date":"2016-09-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b638"},"value":97.0,"firstOfMonth":{"$date":"2016-10-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b639"},"value":20.0,"firstOfMonth":{"$date":"2016-10-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b63a"},"value":96.0,"firstOfMonth":{"$date":"2016-11-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b63b"},"value":31.0,"firstOfMonth":{"$date":"2016-11-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b63c"},"value":95.0,"firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b63d"},"value":23.0,"firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b63e"},"value":98.0,"firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b63f"},"value":24.0,"firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b640"},"value":96.0,"firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b641"},"value":20.0,"firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b642"},"value":97.0,"firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b643"},"value":27.0,"firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b644"},"value":96.0,"firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b645"},"value":30.0,"firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b646"},"value":96.0,"firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b647"},"value":28.0,"firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b648"},"value":98.0,"firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b649"},"value":22.0,"firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b64a"},"value":98.0,"firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b64b"},"value":36.0,"firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b64c"},"value":97.0,"firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b64d"},"value":38.0,"firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b64e"},"value":97.0,"firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b64f"},"value":45.0,"firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b650"},"value":98.0,"firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b651"},"value":48.0,"firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b652"},"value":98.0,"firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b653"},"value":48.0,"firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b654"},"value":98.0,"firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b655"},"value":46.0,"firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b656"},"value":97.0,"firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b657"},"value":44.0,"firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b658"},"value":97.0,"firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b659"},"value":38.0,"firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b65a"},"value":96.0,"firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"percentageType":"SLA Compliance"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b65b"},"value":64.0,"firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"percentageType":"First Call Resolution"}
+{"_id":{"$oid":"5b3c4b2c20fdcacf3949b65c"},"value":99.0,"firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"percentageType":"SLA Compliance"}

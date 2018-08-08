@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>org.spp</groupId>
+	<artifactId>rms-dashboard</artifactId>
+	<version>${revision}${changelist}</version>
+	<packaging>jar</packaging>
+
+	<name>RMS Dashboard</name>
+	<description>RMS Dashboard Application</description>
+
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.13.RELEASE</version>
+		<relativePath/>
+	</parent>
+	
+	
+	 <url>https://rms-dashboard.spp.org</url>
+    <organization>
+        <name>Southwest Power Pool</name>
+        <url>http://www.spp.org</url>
+    </organization>
+    <licenses>
+        <license>
+            <name>Copyright (c) 2018 SPP. All Rights Reserved.</name>
+            <url></url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>ejb0915</id>
+            <name>Ed Briggler</name>
+            <email>ebriggler at spp.org</email>
+            <organization>Southwest Power Pool</organization>
+            <organizationUrl>http://www.spp.org</organizationUrl>
+        </developer>
+		<developer>
+			<id>bnh0618</id>
+			<name>Brandy Hudgins</name>
+			<email>bhudgins at spp.org</email>
+			<organization>Southwest Power Pool</organization>
+			<organizationUrl>http://www.spp.org</organizationUrl>
+		</developer>
+    </developers>
+
+	<properties>
+		<revision>1.0.0</revision>
+		<changelist>-SNAPSHOT</changelist>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<java.version>1.8</java.version>
+		<swagger-annotations-version>1.5.8</swagger-annotations-version>
+        <jacoco.version>0.7.9</jacoco.version>
+		<maven.frontend.plugin.version>1.6</maven.frontend.plugin.version>
+		<jjwt.version>0.9.0</jjwt.version>
+
+		<!-- nolio settings -->
+		<nolio.artifact.name>${project.artifactId}</nolio.artifact.name>
+		<nolio.artifact.version>${project.version}</nolio.artifact.version>
+		<nolio.artifact.groupId>${project.groupId}</nolio.artifact.groupId>
+		<!-- / nolio settings -->
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-rest</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-mongodb</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>de.flapdoodle.embed</groupId>
+			<artifactId>de.flapdoodle.embed.mongo</artifactId>
+			<version>1.50.5</version>
+		</dependency>
+
+		<dependency>
+			<groupId>cz.jirutka.spring</groupId>
+			<artifactId>embedmongo-spring</artifactId>
+			<version>1.3.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-mongodb</artifactId>
+		</dependency>
+
+		<dependency>
+            <groupId>io.swagger</groupId>
+            <artifactId>swagger-annotations</artifactId>
+            <version>${swagger-annotations-version}</version>
+        </dependency>
+		<dependency>
+			<groupId>joda-time</groupId>
+			<artifactId>joda-time</artifactId>
+		</dependency>
+
+		<!-- Swagger Dependencies -->
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger2</artifactId>
+			<version>2.7.0</version>
+		</dependency>
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-data-rest</artifactId>
+			<version>2.7.0</version>
+		</dependency>
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger-ui</artifactId>
+			<version>2.7.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+            <groupId>org.jacoco</groupId>
+            <artifactId>jacoco-maven-plugin</artifactId>
+            <version>${jacoco.version}</version>
+        </dependency>
+	</dependencies>
+
+	<build>
+		<finalName>${project.artifactId}</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-site-plugin</artifactId>
+				<executions>
+					<execution>
+						<phase>verify</phase>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<!-- configure the spring boot maven plugin to add build-info for the actuator -->
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<executable>true</executable>
+				</configuration>
+				<executions>
+					<execution>
+						<goals>
+							<goal>build-info</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<!-- dependency for flattening the pom (expanding out the revision and changelist numbers before publishing -->
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>flatten-maven-plugin</artifactId>
+				<version>1.0.0</version>
+				<configuration>
+					<updatePomFile>true</updatePomFile>
+				</configuration>
+				<executions>
+					<execution>
+						<id>flatten</id>
+						<phase>process-resources</phase>
+						<goals>
+							<goal>flatten</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>flatten.clean</id>
+						<phase>clean</phase>
+						<goals>
+							<goal>clean</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<!-- nexus staging maven plugin. for more info see https://github.com/sonatype/nexus-maven-plugins/tree/master/staging/maven-plugin -->
+			<plugin>
+				<groupId>org.sonatype.plugins</groupId>
+				<artifactId>nexus-staging-maven-plugin</artifactId>
+				<version>1.6.8</version>
+				<extensions>true</extensions>
+				<configuration>
+					<serverId>dev</serverId>
+					<nexusUrl>http://cpnexrepav.sppcorp.org:8080/nexus/</nexusUrl>
+					<stagingProfileId>acd2debe479b7</stagingProfileId>
+					<tags>
+						<system>rms-dashboard</system>
+						<app>${project.artifactId}</app>
+						<system-release>${revision}</system-release>
+						<changeset>${changelist}</changeset>
+					</tags>
+				</configuration>
+			</plugin>
+			<!-- Maven Surefire Plugin -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.20.1</version>
+				<configuration>
+					<argLine>${argLine} -Djavax.net.ssl.trustStore=${basedir}\src\test\resources\spp_internal.truststore -Djavax.net.ssl.trustStorePassword=ChangeMe</argLine>
+				</configuration>
+			</plugin>
+			<!-- Failsafe Plugin -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-failsafe-plugin</artifactId>
+				<executions>
+					<execution>
+						<goals>
+							<goal>integration-test</goal>
+							<goal>verify</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<argLine>${argLine} -Djavax.net.ssl.trustStore=${basedir}\src\test\resources\spp_internal.truststore -Djavax.net.ssl.trustStorePassword=ChangeMe</argLine>
+				</configuration>
+			</plugin>
+			<!-- Jacoco Plugin -->
+			<plugin>
+				<groupId>org.jacoco</groupId>
+				<artifactId>jacoco-maven-plugin</artifactId>
+				<version>${jacoco.version}</version>
+				<configuration>
+					<excludes>
+						<exclude>io/swagger/**/*</exclude>
+					</excludes>
+				</configuration>
+				<executions>
+					<execution>
+						<id>default-prepare-agent</id>
+						<goals>
+							<goal>prepare-agent</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>default-prepare-agent-integration</id>
+						<goals>
+							<goal>prepare-agent-integration</goal>
+						</goals>
+					</execution>
+
+					<execution>
+						<id>default-report</id>
+						<goals>
+							<goal>report</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>default-report-integration</id>
+						<goals>
+							<goal>report-integration</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<!-- Maven Front-End Plugin is used to build projects that utilize NPM or YARN -->
+			<plugin>
+				<groupId>com.github.eirslett</groupId>
+				<artifactId>frontend-maven-plugin</artifactId>
+				<version>${maven.frontend.plugin.version}</version>
+				<executions>
+				  <execution>
+					<id>install node and yarn</id>
+					<goals>
+					  <goal>install-node-and-yarn</goal>
+					</goals>
+					<phase>generate-resources</phase>
+					<configuration>
+						<nodeVersion>v8.0.0</nodeVersion>
+						<yarnVersion>v1.7.0</yarnVersion>
+						<yarnDownloadRoot>http://cpnexrepav.sppcorp.org:8080/nexus/service/local/repositories/thirdparty/content/com/yarnpkg/yarn/</yarnDownloadRoot>
+						<installDirectory>src/app</installDirectory>
+					</configuration>
+				  </execution>
+				  <execution>
+					<id>yarn install</id>
+					<goals>
+					  <goal>yarn</goal>
+					</goals>
+					<configuration>
+					  <arguments>install</arguments>
+					  <workingDirectory>src/app</workingDirectory>
+					</configuration>
+				  </execution>
+				  <execution>
+					<id>yarn run build</id>
+					<goals>
+					  <goal>yarn</goal>
+					</goals>
+					<configuration>
+					  <arguments>run build</arguments>
+					  <workingDirectory>src/app</workingDirectory>
+					</configuration>
+				  </execution>
+				</executions>
+		  </plugin>
+		  <plugin>
+				<artifactId>maven-resources-plugin</artifactId>
+				<version>3.0.1</version>
+				<executions>
+					<execution>
+						<id>Copy frontend production build to resources</id>
+						<phase>generate-resources</phase>
+						<goals>
+							<goal>copy-resources</goal>
+						</goals>
+						<configuration>
+							<outputDirectory>${basedir}/target/classes/static</outputDirectory>
+							<resources>
+								<resource>
+									<directory>src/app/build/</directory>
+									<filtering>true</filtering>
+								</resource>
+							</resources>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+
+	<!-- standard reporting common to all projects -->
+	<reporting>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-project-info-reports-plugin</artifactId>
+				<version>2.7</version>
+
+				<configuration>
+					<dependencyLocationsEnabled>false</dependencyLocationsEnabled>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-report-plugin</artifactId>
+				<version>2.20.1</version>
+			</plugin>
+			<plugin>
+				<groupId>org.jacoco</groupId>
+				<artifactId>jacoco-maven-plugin</artifactId>
+				<version>${jacoco.version}</version>
+				<configuration>
+					<excludes>
+						<exclude>io/swagger/**/*</exclude>
+					</excludes>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>3.0.0</version>
+				<configuration>
+					<sourcepath>${project.basedir}/src/main/java</sourcepath>
+					<excludePackageNames>io.swagger*</excludePackageNames>
+					<sourceFileExcludes>
+						<sourceFileExclude>**/io/swagger/*</sourceFileExclude>
+					</sourceFileExcludes>
+					<failOnError>false</failOnError>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>com.github.spotbugs</groupId>
+				<artifactId>spotbugs-maven-plugin</artifactId>
+				<version>3.1.3</version>
+			</plugin>
+		</plugins>
+	</reporting>
+
+	<!-- jenkins -->
+	<distributionManagement>
+		<repository>
+			<id>releases</id>
+			<name>sdp.progress.com SDP Code Share Release Repository</name>
+			<url>http://cpnexrepav.sppcorp.org:8080/nexus/content/repositories/releases</url>
+		</repository>
+		<snapshotRepository>
+			<id>snapshots</id>
+			<name>sdp.progress.com SDP Code Share Snapshot Repository</name>
+			<url>http://cpnexrepav.sppcorp.org:8080/nexus/content/repositories/snapshots</url>
+		</snapshotRepository>
+	</distributionManagement>
+	<!-- end jenkins -->
+
+	<profiles>
+		<profile>
+			<id>linux</id>
+			<activation>
+				<os>
+					<family>unix</family>
+				</os>
+			</activation>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.codehaus.mojo</groupId>
+						<artifactId>properties-maven-plugin</artifactId>
+						<version>1.0-alpha-2</version>
+						<executions>
+							<execution>
+								<phase>generate-resources</phase>
+								<goals>
+									<goal>write-project-properties</goal>
+								</goals>
+								<configuration>
+									<outputFile>app.properties</outputFile>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+					<!-- start rpm plugin -->
+					<plugin>
+						<groupId>org.codehaus.mojo</groupId>
+						<artifactId>rpm-maven-plugin</artifactId>
+						<version>2.1-alpha-2</version>
+						<executions>
+							<execution>
+								<id>build-rpm</id>
+								<goals>
+									<!-- this goal automatically adds the rpm as Maven build artifact -->
+									<goal>attached-rpm</goal>
+								</goals>
+							</execution>
+						</executions>
+						<configuration>
+							<copyright>Copyright (c) 2018 SPP. All Rights Reserved.</copyright>
+							<distribution>Integrated Marketplace</distribution>
+							<group>IT Apps</group>
+							<packager>IT AI rpm-maven-plugin</packager>
+							<defineStatements>
+								<defineStatement>_rpmfilename %{ARCH}/%{NAME}-%{VERSION}-%{RELEASE}.%{ARCH}.rpm</defineStatement>
+								<defineStatement>__jar_repack 0</defineStatement>
+								<defineStatement>_binaries_in_noarch_packages_terminate_build   0</defineStatement>
+								<defineStatement>__spec_install_post /usr/lib/rpm/brp-compress</defineStatement>
+								<defineStatement>debug_package %{nil}</defineStatement>
+							</defineStatements>
+							<mappings>
+								<!--  mapping for the application itself, directory is included, files are not marked config -->
+								<mapping>
+									<directory>/u01/app/${project.artifactId}</directory>
+									<filemode>700</filemode>
+									<username>springweb</username>
+									<groupname>springweb</groupname>
+									<directoryIncluded>true</directoryIncluded>
+									<sources>
+										<source>
+											<location>target/${project.artifactId}.jar</location>
+										</source>
+									</sources>
+								</mapping>
+								<!-- mapping for the config files in the app dir, directory is not included, files are config -->
+								<mapping>
+									<directory>/u01/app/${project.artifactId}</directory>
+									<filemode>700</filemode>
+									<username>springweb</username>
+									<groupname>springweb</groupname>
+									<directoryIncluded>false</directoryIncluded>
+									<configuration>noreplace</configuration>
+									<sources>
+										<source>
+											<location>${basedir}/src/main/${project.artifactId}.conf</location>
+										</source>
+										<source>
+											<location>${basedir}/src/main/${project.artifactId}.env</location>
+										</source>
+									</sources>
+								</mapping>
+								<!-- make a log dir for the app -->
+								<mapping>
+									<directory>/var/log/${project.artifactId}</directory>
+									<filemode>700</filemode>
+									<username>springweb</username>
+									<groupname>springweb</groupname>
+									<directoryIncluded>true</directoryIncluded>
+									<sources>
+									</sources>
+								</mapping>
+								<!-- systemd init service descriptor -->
+								<mapping>
+									<directory>/etc/systemd/system</directory>
+									<directoryIncluded>false</directoryIncluded>
+									<sources>
+										<source>
+											<location>${basedir}/src/main/${project.artifactId}.service</location>
+										</source>
+									</sources>
+								</mapping>
+								<!-- configure rsyslogd -->
+								<mapping>
+									<directory>/etc/rsyslog.d</directory>
+									<directoryIncluded>false</directoryIncluded>
+									<sources>
+										<source>
+											<location>${basedir}/src/main/${project.artifactId}-rsyslog.conf</location>
+										</source>
+									</sources>
+								</mapping>
+								<!-- configure logrotate -->
+								<mapping>
+									<directory>/etc/logrotate.d</directory>
+									<directoryIncluded>false</directoryIncluded>
+									<sources>
+										<source>
+											<location>${basedir}/src/main/${project.artifactId}-logrotate</location>
+										</source>
+									</sources>
+								</mapping>
+							</mappings>
+							<postinstallScriptlet>
+								<script>systemctl restart rsyslog; systemctl enable ${project.artifactId}.service; systemctl restart ${project.artifactId}.service</script>
+							</postinstallScriptlet>
+						</configuration>
+					</plugin>
+
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
+</project>

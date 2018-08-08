@@ -1,0 +1,29 @@
+<configuration scan="true">
+    <jmxConfigurator />
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>/var/log/apps/rms-dashboard.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- daily rollover -->
+            <fileNamePattern>/var/log/apps/archive/rms-dashboard.%d{yyyy-MM-dd}.log.gz</fileNamePattern>
+
+            <!-- keep 30 days worth of history -->
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>%date{ISO8601} [%thread] %-5level %mdc %logger - %message%n</pattern>
+        </encoder>
+    </appender>
+
+    <!--  enable this appender to get console logging to /var/log/spp-portal.log and enable appender-ref for STDOUT below-->
+      <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+          <pattern>%date{ISO8601} [%thread] %-5level %mdc %logger - %message%n</pattern>
+        </encoder>
+      </appender>
+
+    <root level="INFO">
+        <appender-ref ref="FILE" />
+        <!--  uncomment this if using console appender --><appender-ref ref="STDOUT" />
+    </root>
+</configuration>

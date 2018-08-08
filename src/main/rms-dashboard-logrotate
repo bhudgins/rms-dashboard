@@ -1,0 +1,22 @@
+# logrotate configuration
+
+/var/log/rms-dashboard/*.log {
+    # rotate our logs daily
+    daily
+    # compress on rotation (uses gzip)
+    compress
+    # if missing try
+    missingok
+    # where to put the rotated log file
+    olddir archive
+    # if empty do nothing
+    notifempty
+    # keep two years of log files for audit purposes
+    rotate 730
+    # only run on this particular configuration
+    sharedscripts
+    # reload syslog daemon
+    postrotate
+        /bin/kill -HUP `cat /var/run/syslogd.pid 2> /dev/null` 2> /dev/null || true
+    endscript
+}

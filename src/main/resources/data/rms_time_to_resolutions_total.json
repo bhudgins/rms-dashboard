@@ -1,0 +1,221 @@
+{"_id":{"$oid":"5b3c4c5aae3dab33c822c53b"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-04-18T05:00:00.000Z"},"requestType":"Document Submittal","value":"120:42:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b815"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"52:11:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b816"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b817"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":"23:57:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b818"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b819"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":"16:37:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b81a"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":"77:03:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b81b"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b81c"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b81d"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":"73:38:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b81e"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":"45:13:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b81f"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b820"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b821"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2016-12-01T00:00:00.000Z"},"value":"40:40:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b822"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"46:23:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b823"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b824"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":"18:24:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b825"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b826"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":"15:19:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b827"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":"188:27:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b828"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b829"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b82a"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":"222:05:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b82b"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":"6:40:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b82c"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b82d"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b82e"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-01-01T00:00:00.000Z"},"value":"13:52:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b82f"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"44:10:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b830"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b831"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":"32:47:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b832"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b833"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":"22:32:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b834"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":"52:30:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b835"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b836"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b837"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":"140:54:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b838"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":"40:04:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b839"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b83a"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b83b"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-02-01T00:00:00.000Z"},"value":"31:05:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b83c"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"54:21:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b83d"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b83e"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":"229:49:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b83f"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b840"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":"12:05:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b841"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":"41:38:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b842"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":"13:05:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b843"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b844"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":"549:37:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b845"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":"10:45:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b846"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b847"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b848"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-03-01T00:00:00.000Z"},"value":"141:05:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b849"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"58:49:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b84a"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b84b"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":"65:26:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b84c"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":"66:46:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b84d"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":"12:20:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b84e"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":"16:24:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b84f"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":"3:41:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b850"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":"16:16:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b851"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":"109:09:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b852"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":"35:43:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b853"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b854"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":"36:46:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b855"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-04-01T00:00:00.000Z"},"value":"194:05:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b856"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"50:34:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b857"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b858"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":"58:39:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b859"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":"55:25:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b85a"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":"13:10:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b85b"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":"77:28:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b85c"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":"23:36:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b85d"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":"13:22:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b85e"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":"72:08:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b85f"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":"14:22:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b860"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b861"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":"48:50:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b862"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-05-01T00:00:00.000Z"},"value":"49:46:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b863"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 10 Day","value":"59:50:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b864"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b865"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":"133:31:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b866"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":"51:58:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b867"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":"10:13:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b868"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":"180:56:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b869"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":"8:20:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b86a"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":"9:23:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b86b"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":"243:11:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b86c"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":"8:41:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b86d"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b86e"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":"56:59:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b86f"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-06-01T00:00:00.000Z"},"value":"38:00:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b870"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"57:12:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b871"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b872"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":"16:27:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b873"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b874"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":"6:59:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b875"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":"24:44:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b876"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b877"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":"12:17:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b878"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":"223:11:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b879"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":"13:08:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b87a"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b87b"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":"47:24:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b87c"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-07-01T00:00:00.000Z"},"value":"134:26:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b87d"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"42:50:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b87e"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b87f"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":"52:52:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b880"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b881"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":"9:35:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b882"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":"164:15:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b883"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":"192:59:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b884"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":"15:07:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b885"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":"85:52:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b886"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":"12:48:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b887"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b888"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":"42:45:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b889"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-08-01T00:00:00.000Z"},"value":"7:55:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b88a"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"60:44:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b88b"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b88c"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":"84:19:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b88d"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b88e"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":"5:30:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b88f"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b890"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":"274:03:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b891"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":"15:10:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b892"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":"59:37:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b893"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":"17:19:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b894"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b895"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":"36:53:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b896"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-09-01T00:00:00.000Z"},"value":"48:54:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b897"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"69:43:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b898"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":"156:21:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b899"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":"64:50:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b89a"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b89b"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":"6:31:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b89c"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b89d"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":"11:39:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b89e"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":"13:44:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b89f"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":"169:04:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8a0"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":"6:31:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8a1"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8a2"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":"23:53:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8a3"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-10-01T00:00:00.000Z"},"value":"0:16:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8a4"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"30:02:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8a5"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8a6"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":"62:16:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8a7"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8a8"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":"6:41:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8a9"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":"334:25:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8aa"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ab"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":"17:04:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ac"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":"157:48:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ad"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":"10:58:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ae"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8af"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":"21:37:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8b0"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-11-01T00:00:00.000Z"},"value":"153:18:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8b1"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"20:21:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8b2"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8b3"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8b4"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":"22:17:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8b5"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":"7:46:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8b6"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8b7"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8b8"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":"14:17:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8b9"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":"85:26:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ba"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":"13:45:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8bb"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8bc"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":"17:27:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8bd"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2017-12-01T00:00:00.000Z"},"value":"514:18:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8be"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"26:59:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8bf"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8c0"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":"40:48:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8c1"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":"47:56:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8c2"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":"6:15:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8c3"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8c4"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":"307:00:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8c5"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":"18:08:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8c6"},"requestType":"General Inquiry No SLA","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":"46:19:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8c7"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":"4:48:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8c8"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8c9"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":"26:03:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ca"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2018-01-01T00:00:00.000Z"},"value":"0:10:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8cb"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"20:39:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8cc"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8cd"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":"47:16:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ce"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-02-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":"20:17:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8cf"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":"6:45:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8d0"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8d1"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":"12:45:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8d2"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":"9:11:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8d3"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"requestType":"General Inquiry No SLA","value":"82:17:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8d4"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":"5:13:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8d5"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8d6"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":"26:26:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8d7"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2018-02-18T00:00:00.000Z"},"value":"105:22:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8d8"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"16:39:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8d9"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8da"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":"32:09:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8db"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-03-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":"54:57:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8dc"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":"5:26:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8dd"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8de"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8df"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":"3:28:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8e0"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"requestType":"General Inquiry No SLA","value":"96:35:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8e1"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":"10:28:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8e2"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8e3"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":"21:53:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8e4"},"requestType":"Document Submittal","firstOfMonth":{"$date":"2018-03-18T00:00:00.000Z"},"value":"141:51:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8e5"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"requestType":"General Inquiry 10 Day","value":"28:31:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8e6"},"requestType":"Red Flag Actual","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8e7"},"requestType":"RTO Compliance","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":"52:53:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8e8"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-04-01T00:00:00.000Z"},"requestType":"Settlement Inquiry 1 Month","value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8e9"},"requestType":"General Inquiry 5 Day","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":"6:04:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ea"},"requestType":"General Inquiry 1 Month","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8eb"},"requestType":"FERC Order 1000","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":"10:41:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ec"},"requestType":"Settlement Inquiry 5 Day","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":"21:40:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ed"},"_class":"org.spp.model.RmsTimeToResolutions","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"requestType":"General Inquiry No SLA","value":"73:09:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ee"},"requestType":"Project Inquiries","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":"12:46:00"}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8ef"},"requestType":"NDA Requests","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":""}
+{"_id":{"$oid":"5b3c544920fdcacf3949b8f0"},"requestType":"Settlement Inquiry 10 Day","firstOfMonth":{"$date":"2018-04-18T00:00:00.000Z"},"value":"30:32:00"}
