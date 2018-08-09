@@ -1,7 +1,7 @@
 SERVER_KEYSTORE_LOCATION=C:\Users\bnh0618\Documents\dev\brandy-school-project\src\main\resources\server.keystore
 SERVER_KEYSTORE_PASSWORD=password
 RMS_DB_URL=localhost
-RMS_DB_PORT=27017
+RMS_DB_PORT=52709
 RMS_DB_DBNAME=rms_dashboard_db
 RMS_JWT_SECRET=ksfdlkvopiurutueijflkdsvf,cjnjnxjnvsoifoiropiezaropioezkvf,k,c kv,ckvdkfjgvorieoigfopziefpozepfiezikfozkfldsmvflkvdldvl,fdvk,fdkv,dkfgkjfdgkjvicooiviuzieopiztpoirpotimldkflg,vlkfckjshayauiueruergregierpogipdfogiklxvcjnxvjnfvjdsmkfmslfklgkfgoirgjitrooritjg
 RMS_JWT_TIMEOUT=604800000
