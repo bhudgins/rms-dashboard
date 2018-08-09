@@ -1,0 +1,19 @@
+SERVER_KEYSTORE_LOCATION=C:\Users\bnh0618\Documents\dev\brandy-school-project\src\main\resources\server.keystore
+SERVER_KEYSTORE_PASSWORD=password
+RMS_DB_URL=localhost
+RMS_DB_PORT=27017
+RMS_DB_DBNAME=rms_dashboard_db
+RMS_JWT_SECRET=ksfdlkvopiurutueijflkdsvf,cjnjnxjnvsoifoiropiezaropioezkvf,k,c kv,ckvdkfjgvorieoigfopziefpozepfiezikfozkfldsmvflkvdldvl,fdvk,fdkv,dkfgkjfdgkjvicooiviuzieopiztpoirpotimldkflg,vlkfckjshayauiueruergregierpogipdfogiklxvcjnxvjnfvjdsmkfmslfklgkfgoirgjitrooritjg
+RMS_JWT_TIMEOUT=604800000
+ORG_SPP_INTERNAL_LDAP_URL=ldap://cpdccorpa.sppcorp.org:3268
+ORG_SPP_INTERNAL_LDAP_USERBASE=DC\\=sppcorp,DC\\=org
+ORG_SPP_INTERNAL_LDAP_DOMAIN=sppcorp.org
+ORG_SPP_INTERNAL_LDAP_INITIALBINDUSER=importal
+ORG_SPP_INTERNAL_LDAP_INITIALBINDPASS=c*4B2d#x
+ORG_SPP_INTERNAL_LDAP_GROUP_ADMIN=CARK_PRD_IMPortal
+ORG_SPP_INTERNAL_LDAP_GROUP_USER=CARK_PRD_Users
+ORG_SPP_INTERNAL_LDAP_ID_FILTER=(sAMAccountName\\=%s)
+ORG_SPP_INTERNAL_LDAP_EMAIL_FILTER=(mail\\=%s)
+ORG_SPP_INTERNAL_LDAP_MAILATTR=mail
+RMS_TRUSTSTORE_LOCATION=C:\Users\bnh0618\Documents\dev\brandy-school-project\src\main\resources\spp_internal.truststore
+RMS_TRUSTSTORE_PASSWORD=ChangeMe
