@@ -1,4 +1,4 @@
-SERVER_KEYSTORE_LOCATION=C:\Users\bnh0618\Documents\dev\brandy-school-project\src\main\resources\server.keystore
+SERVER_KEYSTORE_LOCATION=C:\Users\branb\IdeaProjects\rms-dashboard\src\main\resources\server.keystore
 SERVER_KEYSTORE_PASSWORD=password
 RMS_DB_URL=localhost
 RMS_DB_PORT=52709
@@ -15,5 +15,5 @@ ORG_SPP_INTERNAL_LDAP_GROUP_USER=CARK_PRD_Users
 ORG_SPP_INTERNAL_LDAP_ID_FILTER=(sAMAccountName\\=%s)
 ORG_SPP_INTERNAL_LDAP_EMAIL_FILTER=(mail\\=%s)
 ORG_SPP_INTERNAL_LDAP_MAILATTR=mail
-RMS_TRUSTSTORE_LOCATION=C:\Users\bnh0618\Documents\dev\brandy-school-project\src\main\resources\spp_internal.truststore
+RMS_TRUSTSTORE_LOCATION=C:\Users\branb\IdeaProjects\rms-dashboard\src\main\resources\spp_internal.truststore
 RMS_TRUSTSTORE_PASSWORD=ChangeMe
